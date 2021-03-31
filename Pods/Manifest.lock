@@ -1,0 +1,16 @@
+PODS:
+  - Moltin (3.1.2)
+
+DEPENDENCIES:
+  - Moltin (~> 3.1)
+
+SPEC REPOS:
+  trunk:
+    - Moltin
+
+SPEC CHECKSUMS:
+  Moltin: 05ac6b967e42de6b726c6a1cf699a36284307c79
+
+PODFILE CHECKSUM: 754972eb7ece41ef6c7fc36eccf345529beb2d5f
+
+COCOAPODS: 1.8.4

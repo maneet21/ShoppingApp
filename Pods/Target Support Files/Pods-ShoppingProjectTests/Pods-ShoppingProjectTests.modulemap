@@ -1,0 +1,6 @@
+framework module Pods_ShoppingProjectTests {
+  umbrella header "Pods-ShoppingProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
